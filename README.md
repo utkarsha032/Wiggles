@@ -1,6 +1,6 @@
-# **Wiggles** - Social Media Web Application (Cloned and Modified)
+# **Wiggles** - Social Media Web Application
 
-**Wiggles** is a web application designed to connect pet parents and make their lives a bit easier. This project is a **cloned repository** that I have modified and enhanced to add personal features, improve functionality, and gain experience with full-stack web development.
+**Wiggles** is a web application designed to connect pet parents and make their lives a bit easier. This project is an open source project that I have modified and enhanced to add personal features, improve functionality, and gain experience with full-stack web development.
 
 ---
 
